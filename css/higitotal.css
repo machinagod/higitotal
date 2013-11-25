@@ -328,3 +328,15 @@ footer li {
     line-height: 23px;
     padding-left: 4px;
 }
+
+#cat_menu {
+    margin-top: 15px;
+    background-color: #dcdcdc;
+    float: left;
+    position: absolute;
+    z-index: 5;
+    width:100%;
+    height: 300px;
+    display: none;
+}
+
